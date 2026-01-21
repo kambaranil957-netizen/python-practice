@@ -1,1 +1,1 @@
-# dailycode
+print("hello world")
