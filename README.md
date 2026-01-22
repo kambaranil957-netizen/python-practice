@@ -1,6 +1,6 @@
 # Python practice
-this repository contains my "daily DSA problems with python".
-i am using this repo to imprve my problem solving skills and prepare for "technical interviews".
+This repository contains my "daily DSA problems with python".
+I am using this repo to imprve my problem solving skills and prepare for "technical interviews".
 ----
 ## Program: Adding two numbers 
 ''' python
